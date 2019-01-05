@@ -29,16 +29,6 @@
 
     </div>
 
-    <div class="col-md-12 text-center">
-        <div id="timer">0:00 </div>
-        <div id="duration">{{timer}} </div><br>
-        <!-- <div id="bar" ng-hide="songPlaying"></div> -->
-        <!-- <div id="waveform" ng-show="songPlaying" ng-click="seekToTime($event)"></div> -->
-
-        <div class="progress" id="seek" ng-click="seekToTime($event)">
-            <div class="progress-bar bg-danger" role="progressbar" id="progress" aria-valuemin="0" aria-valuemax="100"></div>
-        </div>
-    </div>
     <!-- <div id="progress"></div> -->
     <br>
     <div class="col-md-12" id="outerCtrl">
@@ -55,17 +45,6 @@
             <i class="fas fa-bars fa-lg fa-inverse"></i>
         </button>
 
-        <button type="button" id="shuffleBtn" ng-show="shuffle" class="btn btn-primary-outline btn-lg justify-content-end"
-            ng-click="toggleShuffle()">
-            <i class="fas fa-random fa-lg fa-inverse"></i>
-        </button>
-
-        <button type="button" id="shuffleBtn" ng-show="!shuffle" class="btn btn-primary-outline btn-lg justify-content-end"
-            ng-click="toggleShuffle()">
-            <i class="fas fa-sync-alt fa-lg fa-inverse"></i>
-        </button>
-
-        
         <button type="button" id="checkboxrn" ng-show="mute" class="btn btn-primary-outline btn-lg justify-content-end"
                 ng-click="togglecheckbox()">
             <i class="fas fa-volume-off fa-lg fa-inverse"></i>
@@ -80,7 +59,11 @@
     </div>
 
     <div id="playlist" ng-show="playListVisible" class="list-group style-3">
-        <a href="" class="list-group-item list-group-item-action list" ng-repeat="song in player.playlist" ng-click="playPlaylistSong($index)">{{song.name}}</a>
+        <span ng-click="refreshStreams()">Click to Refresh</span>
+        <a href="" class="list-group-item list-group-item-action list" ng-repeat="song in player.playlist" ng-click="playPlaylistSong($index)">
+            <span ng-class="{'dot dot-green': song.online, 'dot': !(song.online)}"><span class="dot-inner"></span></span>
+            {{song.name}}
+        </a>
     </div>
 
     <!-- <div id="playlist" ng-show="playListVisible">

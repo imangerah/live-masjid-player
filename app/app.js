@@ -5,4 +5,4 @@ angular.module('Player', [
   .config(['$routeProvider', function ($routeProvider) {
     $routeProvider
     .otherwise({redirectTo: '/player'})
-  }])
+  }]);

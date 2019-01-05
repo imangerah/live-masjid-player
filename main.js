@@ -1,4 +1,4 @@
-const {app, BrowserWindow, dialog, Menu} = require('electron')
+const {app, BrowserWindow, Menu} = require('electron')
 const path = require('path')
 const url = require('url')
 const join = require('path').join;
@@ -16,50 +16,7 @@ function createWindow() {
         icon: __dirname + '/dusk.png'
     })
 
-    var light = false
-
-    fs.readFile('theme.txt', 'utf-8', function (err, buf) {
-        if (err)
-            return
-        var temp = buf.toString();
-        if (temp == "light")
-            light = true
-        // console.log(temp);
-    });
-
     var menu = Menu.buildFromTemplate([
-        {
-            label: 'Folders',
-            accelerator: 'CommandOrControl+o',
-            click: function () {
-                openFolderDialog()
-            }
-        },
-        {
-            label: 'Theme',
-            submenu: [
-                {
-                    label: 'Toggle',
-                    type: "checkbox",
-                    checked: light,
-                    click: function () {
-                        var theme = ""
-                        if (light) {
-                            theme = "dark"
-                            light = false
-                        }
-                        else {
-                            theme = "light"
-                            light = true
-                        }
-                        fs.writeFile('theme.txt', theme, function (err, data) {
-                            if (err) console.log(err);
-                        });
-                        // win.webContents.send('theme-change', msg)
-                    }
-                }
-            ]
-        },
         {
             label: 'Info',
             click: function () {
@@ -80,14 +37,6 @@ function createWindow() {
         slashes: true
     }))
 
-    // fs.readFile('path.txt', 'utf-8', function (err, buf) {
-    //   if (err) {
-    //     return
-    //   }
-    //   var temp = [buf.toString()];
-    //   scanDir(temp);
-
-    // });
 
     // Open the DevTools.
     win.webContents.openDevTools()
@@ -112,43 +61,3 @@ app.on('activate', () => {
         createWindow()
     }
 })
-
-function openFolderDialog() {
-    dialog.showOpenDialog(win, {
-        properties: ['openDirectory']
-    }, function (filePath) {
-
-        if (filePath) {
-            fs.writeFile('path.txt', filePath, function (err, data) {
-                if (err) console.log(err);
-            });
-            // console.log(filePath);
-
-            scanDir(filePath)
-        }
-    })
-}
-
-function scanDir(filePath) {
-    if (!filePath || filePath[0] == 'undefined') return;
-
-    fs.readdir(filePath[0], function (err, files) {
-        var arr = [];
-        for (var i = 0; i < files.length; i++) {
-            if (files[i].substr(-4) === '.mp3' || files[i].substr(-4) === '.m4a'
-                || files[i].substr(-5) === '.webm' || files[i].substr(-4) === '.wav'
-                || files[i].substr(-4) === '.aac' || files[i].substr(-4) === '.ogg'
-                || files[i].substr(-5) === '.opus') {
-                arr.push(files[i]);
-            }
-        }
-        // console.log(filePath);
-        var objToSend = {};
-        objToSend.files = arr;
-        objToSend.path = filePath;
-
-        win.webContents.send('selected-files', objToSend)
-        // console.log(win.webContents);
-
-    })
-}

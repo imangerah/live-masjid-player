@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Quraan Recitation",
+    "url": "https://icecast.livemasjid.com/activestream",
+    "id": "activestream"
+  },
+  {
+    "title": "Sautun Noor - 24 Hour Internet Radio Station",
+    "url": "https://icecast.livemasjid.com/annoor-relay",
+    "id": "annoor-relay"
+  },
+  {
+    "title": "Masjid al-Haram, Makkah Mukarama, Saudi Arabia",
+    "url": "https://icecast.livemasjid.com/makkah",
+    "id": "makkah"
+  },
+  {
+    "title": "Masjidun Nabawi, Medina, Saudi Arabia",
+    "url": "https://icecast.livemasjid.com/medina",
+    "id": "medina"
+  },
+  {
+    "title": "Sautun Noor - Spare Channel",
+    "url": "https://icecast.livemasjid.com/sautunnoor2",
+    "id": "sautunnoor2"
+  },
+  {
+    "title": "Al Qadr Masjid, Northcliff, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/alqadr",
+    "id": "alqadr"
+  },
+  {
+    "title": "Albersville Masjid, Port Shepstone, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/portshepstone",
+    "id": "portshepstone"
+  },
+  {
+    "title": "Amanzimtoti Musallah, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/amanzimtoti",
+    "id": "amanzimtoti"
+  },
+  {
+    "title": "Auckland Park Masjid, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/aucklandpark",
+    "id": "aucklandpark"
+  },
+  {
+    "title": "Bergville Masjid, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/bergville",
+    "id": "bergville"
+  },
+  {
+    "title": "Beyerspark Musallah, Boksburg, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/beyerspark",
+    "id": "beyerspark"
+  },
+  {
+    "title": "Braelyn Jaami' Masjid",
+    "url": "https://icecast.livemasjid.com/eastlondon",
+    "id": "eastlondon"
+  },
+  {
+    "title": "Brits Jamia Masjid, North West, RSA",
+    "url": "https://icecast.livemasjid.com/britsjamia",
+    "id": "britsjamia"
+  },
+  {
+    "title": "Chakasraal Madressa Anjuman Islam, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/chakasraal",
+    "id": "chakasraal"
+  },
+  {
+    "title": "Crown Gardens Musallah, Johannesburg, RSA",
+    "url": "https://icecast.livemasjid.com/crowngardens",
+    "id": "crowngardens"
+  },
+  {
+    "title": "Darul Hadith Research Center",
+    "url": "https://icecast.livemasjid.com/dhrc",
+    "id": "dhrc"
+  },
+  {
+    "title": "Darul Uloom Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/dua",
+    "id": "dua"
+  },
+  {
+    "title": "Darul Uloom Camperdown, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/inaamiyyah",
+    "id": "inaamiyyah"
+  },
+  {
+    "title": "Darul Uloom Madrasatus Saadiqeen, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/saadiqeen",
+    "id": "saadiqeen"
+  },
+  {
+    "title": "Darul Uloom Newcastle, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/dun",
+    "id": "dun"
+  },
+  {
+    "title": "Darul Uloom Zakariyya, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/duzak",
+    "id": "duzak"
+  },
+  {
+    "title": "Empangeni Jumuah Masjid, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/empangeni",
+    "id": "empangeni"
+  },
+  {
+    "title": "Ermelo Masjid, Mpumalanga, RSA",
+    "url": "https://icecast.livemasjid.com/ermelo",
+    "id": "ermelo"
+  },
+  {
+    "title": "Escourt Masjid, Escourt, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/escourt",
+    "id": "escourt"
+  },
+  {
+    "title": "Glenwood Musalla, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/glenwood",
+    "id": "glenwood"
+  },
+  {
+    "title": "Habibia Soofie Masjid, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/glenearn",
+    "id": "glenearn"
+  },
+  {
+    "title": "Hafiz Qaasim Paruk, Pietermaritzburg, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/hafizqaasim",
+    "id": "hafizqaasim"
+  },
+  {
+    "title": "Hazrat Shaykh Abdul Mu'eed Saheb",
+    "url": "https://icecast.livemasjid.com/hazratbhaijan",
+    "id": "hazratbhaijan"
+  },
+  {
+    "title": "Helderkruin Masjid, Rooderpoort, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/helderkruin",
+    "id": "helderkruin"
+  },
+  {
+    "title": "Houghton Muslim Jamaat, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/hmjamaat",
+    "id": "hmjamaat"
+  },
+  {
+    "title": "Jaame Masjid, Actonville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/actonville",
+    "id": "actonville"
+  },
+  {
+    "title": "Jaamia Masjid, Dundee, Kzn. RSA",
+    "url": "https://icecast.livemasjid.com/dundee",
+    "id": "dundee"
+  },
+  {
+    "title": "Jamiatul Hufaaz, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/jh1430",
+    "id": "jh1430"
+  },
+  {
+    "title": "Khanqah Akhtari, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/kai",
+    "id": "kai"
+  },
+  {
+    "title": "Khanqah Anwaarul Abraar, Pmb, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/anwaarulabraar",
+    "id": "anwaarulabraar"
+  },
+  {
+    "title": "Khanqah Imdadia Ashrafia, Karachi, Pakistan",
+    "url": "https://icecast.livemasjid.com/kia",
+    "id": "kia"
+  },
+  {
+    "title": "Khanqah Sheikh Zakariyya Tswane, Pta, RSA",
+    "url": "https://icecast.livemasjid.com/kszt",
+    "id": "kszt"
+  },
+  {
+    "title": "Khanqah Sheikh Zakariyyah, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/kmsz",
+    "id": "kmsz"
+  },
+  {
+    "title": "Klerksdorp Town Masjid, Northern Province, RSA",
+    "url": "https://icecast.livemasjid.com/klerksdorp",
+    "id": "klerksdorp"
+  },
+  {
+    "title": "Lakewood Estate Masjid, Ormonde, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/lakewood",
+    "id": "lakewood"
+  },
+  {
+    "title": "Madrasa Ibrahimia, Illinois, Chicago, USA",
+    "url": "https://icecast.livemasjid.com/ibrahimiyah",
+    "id": "ibrahimiyah"
+  },
+  {
+    "title": "Madrasah Ihyaa id Deen, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mid",
+    "id": "mid"
+  },
+  {
+    "title": "Madrasah Quwwatul Islam - Palmridge",
+    "url": "https://icecast.livemasjid.com/mqipalmridge",
+    "id": "mqipalmridge"
+  },
+  {
+    "title": "Madrassah Tarteel ul Quraan, Pmb, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/altarteel",
+    "id": "altarteel"
+  },
+  {
+    "title": "Manzilpark Masjid, Klerksdorp, RSA",
+    "url": "https://icecast.livemasjid.com/manzilparkmasjid",
+    "id": "manzilparkmasjid"
+  },
+  {
+    "title": "Maraisburg Jumuah Masjid, Jhb, Rsa",
+    "url": "https://icecast.livemasjid.com/maraisburg",
+    "id": "maraisburg"
+  },
+  {
+    "title": "Marlboro Masjid, Sandton, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/marlboromasjid",
+    "id": "marlboromasjid"
+  },
+  {
+    "title": "Masjid Abraar, Zinniaville, Rustenburg, NW, RSA",
+    "url": "https://icecast.livemasjid.com/abraarrustenburg",
+    "id": "abraarrustenburg"
+  },
+  {
+    "title": "Masjid Abu Bakr Siddique, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/abubakrmackenzie",
+    "id": "abubakrmackenzie"
+  },
+  {
+    "title": "Masjid Al Huda, Robertsham, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/robertsham",
+    "id": "robertsham"
+  },
+  {
+    "title": "Masjid Al Khaleel, Buccleuch, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/buccleuch",
+    "id": "buccleuch"
+  },
+  {
+    "title": "Masjid Al Noor, Laudium, Pretoria, RSA",
+    "url": "https://icecast.livemasjid.com/noorlaudium",
+    "id": "noorlaudium"
+  },
+  {
+    "title": "Masjid As Siddique, North Beach, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/northbeachdbn",
+    "id": "northbeachdbn"
+  },
+  {
+    "title": "Masjid Furqaan, Houghton, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/hma",
+    "id": "hma"
+  },
+  {
+    "title": "Masjid Hamza, Erasmia, Pretoria, RSA",
+    "url": "https://icecast.livemasjid.com/masjidhamza",
+    "id": "masjidhamza"
+  },
+  {
+    "title": "Masjid Ibaadur Rahmaan, Uitenhage, EC, RSA",
+    "url": "https://icecast.livemasjid.com/ibaadurrahmaanuitenhage",
+    "id": "ibaadurrahmaanuitenhage"
+  },
+  {
+    "title": "Masjid Ibrahim, Perth, Australia",
+    "url": "https://icecast.livemasjid.com/masjidibrahim",
+    "id": "masjidibrahim"
+  },
+  {
+    "title": "Masjid Imdaadiya, Cyrildene, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/cyrildene",
+    "id": "cyrildene"
+  },
+  {
+    "title": "Masjid Mansoor, Port Elizabeth, EC, RSA",
+    "url": "https://icecast.livemasjid.com/mansoorpe",
+    "id": "mansoorpe"
+  },
+  {
+    "title": "Masjid Muaaz bin Jabal, Crosby, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/crosby",
+    "id": "crosby"
+  },
+  {
+    "title": "Masjid Musab Bin Umair, Crosby, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/musabbinumair",
+    "id": "musabbinumair"
+  },
+  {
+    "title": "Masjid Noor, Roshnee, Vereeniging, Gauteng, RSA",
+    "url": "https://icecast.livemasjid.com/noorroshnee",
+    "id": "noorroshnee"
+  },
+  {
+    "title": "Masjid Nurul Huda, Durban, KZN, RSA",
+    "url": "https://icecast.livemasjid.com/nurulhuda",
+    "id": "nurulhuda"
+  },
+  {
+    "title": "Masjid Sawliheen, Pietermaritzburg, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/sawliheenpmb",
+    "id": "sawliheenpmb"
+  },
+  {
+    "title": "Masjid Sayyidina Bilaal, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/bilaalbenoni",
+    "id": "bilaalbenoni"
+  },
+  {
+    "title": "Masjid Siraatul Jannah, Ormonde, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/evanspark",
+    "id": "evanspark"
+  },
+  {
+    "title": "Masjid Taqwa, Brits, NW, RSA",
+    "url": "https://icecast.livemasjid.com/taqwabrits",
+    "id": "taqwabrits"
+  },
+  {
+    "title": "Masjid Taqwa, Gelvan Park, Port Elizabeth, EC, RSA",
+    "url": "https://icecast.livemasjid.com/taqwape",
+    "id": "taqwape"
+  },
+  {
+    "title": "Masjid Tariq Bin Ziyad, Linbro Park, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/linbropark",
+    "id": "linbropark"
+  },
+  {
+    "title": "Masjid Umar Farooq, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mackenzie",
+    "id": "mackenzie"
+  },
+  {
+    "title": "Masjid Un Noor, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/noorlenasia",
+    "id": "noorlenasia"
+  },
+  {
+    "title": "Masjid Ur Rahmah, Greenside, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/greensidemasjid",
+    "id": "greensidemasjid"
+  },
+  {
+    "title": "Masjid Us Siddiq, Newcastle, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/siddiqnewcastle",
+    "id": "siddiqnewcastle"
+  },
+  {
+    "title": "Masjid Uthmaan Ghani, Lenasia South, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/lsma",
+    "id": "lsma"
+  },
+  {
+    "title": "Masjid e Museehullah, Ladysmith, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/ladysmith",
+    "id": "ladysmith"
+  },
+  {
+    "title": "Masjid e Noor, Overport, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/noor",
+    "id": "noor"
+  },
+  {
+    "title": "Masjid e Quwwatul Islam, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/shallcross",
+    "id": "shallcross"
+  },
+  {
+    "title": "Masjid e Tauheed, Rynsoord, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rynsoord",
+    "id": "rynsoord"
+  },
+  {
+    "title": "Masjid ul Ansaar, Lakefield, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/lakefield",
+    "id": "lakefield"
+  },
+  {
+    "title": "Masjid us Salaam, Laudium, Pretoria, RSA",
+    "url": "https://icecast.livemasjid.com/salaamlaudium",
+    "id": "salaamlaudium"
+  },
+  {
+    "title": "Masjid us Saliheen, Sherwood, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/saliheendbn",
+    "id": "saliheendbn"
+  },
+  {
+    "title": "Masjidus Salaam, Phoenix, Durban, RSA",
+    "url": "https://icecast.livemasjid.com/sunford",
+    "id": "sunford"
+  },
+  {
+    "title": "Maulana Abdul Haq Makada, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/mueenuddeen",
+    "id": "mueenuddeen"
+  },
+  {
+    "title": "Maulana Abdur Rahman Lambat, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/arilambat",
+    "id": "arilambat"
+  },
+  {
+    "title": "Maulana Ahmed Sadeck Desai, PE, RSA",
+    "url": "https://icecast.livemasjid.com/majlis",
+    "id": "majlis"
+  },
+  {
+    "title": "Maulana Akbar Ali, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/bandha",
+    "id": "bandha"
+  },
+  {
+    "title": "Maulana Dawood Seedat, Pmb, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/taqwa",
+    "id": "taqwa"
+  },
+  {
+    "title": "Maulana Fazlur Rahman, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rahmaniyyahenglish",
+    "id": "rahmaniyyahenglish"
+  },
+  {
+    "title": "Maulana Fazlur Rahman, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rahmaniyyah",
+    "id": "rahmaniyyah"
+  },
+  {
+    "title": "Maulana Ilyas Patel, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/mlilyas",
+    "id": "mlilyas"
+  },
+  {
+    "title": "Maulana Junaid Hassim, Mayfair, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/kkm",
+    "id": "kkm"
+  },
+  {
+    "title": "Maulana Moosa Akoodee, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mlakoodee",
+    "id": "mlakoodee"
+  },
+  {
+    "title": "Maulana Muaz Bhyat, Welkom, Freestate, Rsa",
+    "url": "https://icecast.livemasjid.com/mlmuaz",
+    "id": "mlmuaz"
+  },
+  {
+    "title": "Maulana Muhammad Vanker, Durban, RSA",
+    "url": "https://icecast.livemasjid.com/mlvanker",
+    "id": "mlvanker"
+  },
+  {
+    "title": "Maulana Muhammed Jeena, Kimberley, Nw, RSA",
+    "url": "https://icecast.livemasjid.com/mii",
+    "id": "mii"
+  },
+  {
+    "title": "Maulana Muhammed Shaakir, Auckland, NZ",
+    "url": "https://icecast.livemasjid.com/imaamshaakir",
+    "id": "imaamshaakir"
+  },
+  {
+    "title": "Maulana Qari Ismaeel Desai, Umzinto, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/dawatulhaq",
+    "id": "dawatulhaq"
+  },
+  {
+    "title": "Maulana Ridwaan Kajee, Azaadville, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mlridwaan",
+    "id": "mlridwaan"
+  },
+  {
+    "title": "Maulana Saleem Dhorat, Leicester, UK",
+    "url": "https://icecast.livemasjid.com/idauk",
+    "id": "idauk"
+  },
+  {
+    "title": "Maulana Shafiq Hajee, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/shafiqhajee",
+    "id": "shafiqhajee"
+  },
+  {
+    "title": "Maulana Yahya Bham, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mlbham",
+    "id": "mlbham"
+  },
+  {
+    "title": "Maulana Yusuf Bhikhoo, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mlyusufbhikhoo",
+    "id": "mlyusufbhikhoo"
+  },
+  {
+    "title": "Maulana Zaheer Ragie, Helderkruin, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mlragie",
+    "id": "mlragie"
+  },
+  {
+    "title": "May Street Masjid, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/may",
+    "id": "may"
+  },
+  {
+    "title": "Mayfair Jummah Masjid, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/mayfairjummah",
+    "id": "mayfairjummah"
+  },
+  {
+    "title": "Middelburg Masjid, Mpumalanga, RSA",
+    "url": "https://icecast.livemasjid.com/middelburg",
+    "id": "middelburg"
+  },
+  {
+    "title": "Miftah ul Khair, Mackenzie Park, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/miftahulkhair",
+    "id": "miftahulkhair"
+  },
+  {
+    "title": "Moghul Park Masjid, Kimberley, Northern Cape, RSA",
+    "url": "https://icecast.livemasjid.com/kimberley",
+    "id": "kimberley"
+  },
+  {
+    "title": "Mountainrise Masjid, Pmb, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/mountainrise",
+    "id": "mountainrise"
+  },
+  {
+    "title": "Mufti Abdul Kader Hoosen, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/muftiak",
+    "id": "muftiak"
+  },
+  {
+    "title": "Mufti Ahmed Khanpuri",
+    "url": "https://icecast.livemasjid.com/muftikhanpuri",
+    "id": "muftikhanpuri"
+  },
+  {
+    "title": "Mufti Alli Lorgat, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/muftilorgat",
+    "id": "muftilorgat"
+  },
+  {
+    "title": "Mufti Ebrahim Salejee, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/muftisalejee",
+    "id": "muftisalejee"
+  },
+  {
+    "title": "Mufti Muhammad Hashim Amod",
+    "url": "https://icecast.livemasjid.com/muftimhashim",
+    "id": "muftimhashim"
+  },
+  {
+    "title": "Mufti Muhammed Saeed Motara, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/learndeen",
+    "id": "learndeen"
+  },
+  {
+    "title": "Mufti Siraj Desai, Port Elizabeth, RSA",
+    "url": "https://icecast.livemasjid.com/muftisiraj",
+    "id": "muftisiraj"
+  },
+  {
+    "title": "Mufti Yusuf Desai, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/muftiyusuf",
+    "id": "muftiyusuf"
+  },
+  {
+    "title": "Mufti Zubair Bhayat, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/muftizubair",
+    "id": "muftizubair"
+  },
+  {
+    "title": "Naqshbandi",
+    "url": "https://icecast.livemasjid.com/naqshbandi",
+    "id": "naqshbandi"
+  },
+  {
+    "title": "Newcastle Jaamia Masjid, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/newcastle",
+    "id": "newcastle"
+  },
+  {
+    "title": "Northcliff Ext Musallah, Jhb,RSA",
+    "url": "https://icecast.livemasjid.com/northcliffext",
+    "id": "northcliffext"
+  },
+  {
+    "title": "Northcliff Masjid, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/northcliff",
+    "id": "northcliff"
+  },
+  {
+    "title": "Qari Abdul Rahman Ishaq, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/qariarishaq",
+    "id": "qariarishaq"
+  },
+  {
+    "title": "Quraan Lovers",
+    "url": "https://icecast.livemasjid.com/quraanlovers",
+    "id": "quraanlovers"
+  },
+  {
+    "title": "Rainbow Masjid, Lenasia, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rmsc",
+    "id": "rmsc"
+  },
+  {
+    "title": "Roosevelt Park Musallah, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rsvltmusalla",
+    "id": "rsvltmusalla"
+  },
+  {
+    "title": "Rustenburg Jaame Masjid, Zinniaville, NW, RSA",
+    "url": "https://icecast.livemasjid.com/rustenburg",
+    "id": "rustenburg"
+  },
+  {
+    "title": "Rynfield Musallah, Benoni, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/rynfield",
+    "id": "rynfield"
+  },
+  {
+    "title": "Sautul Quraan, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/sautulquraan",
+    "id": "sautulquraan"
+  },
+  {
+    "title": "South African Quraan Union",
+    "url": "https://icecast.livemasjid.com/saqu",
+    "id": "saqu"
+  },
+  {
+    "title": "Stanger Jaamia Masjid, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/stangermasjid",
+    "id": "stangermasjid"
+  },
+  {
+    "title": "Taqwa Boys School, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/taqwaboys",
+    "id": "taqwaboys"
+  },
+  {
+    "title": "Tarteelul Quraan Institute, Abuja, Nigeria",
+    "url": "https://icecast.livemasjid.com/tqinigeria",
+    "id": "tqinigeria"
+  },
+  {
+    "title": "The Jamiatul Ulama, De Deur, Jhb, RSA",
+    "url": "https://icecast.livemasjid.com/thejamiat",
+    "id": "thejamiat"
+  },
+  {
+    "title": "Umhlanga Masjid, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/umhlanga",
+    "id": "umhlanga"
+  },
+  {
+    "title": "Umzinto Jaame Masjid, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/umzinto",
+    "id": "umzinto"
+  },
+  {
+    "title": "Waterloo Road Masjid, Kenwyn, Cpt, RSA",
+    "url": "https://icecast.livemasjid.com/kenwyn",
+    "id": "kenwyn"
+  },
+  {
+    "title": "Welkom Masjid, Free State, RSA",
+    "url": "https://icecast.livemasjid.com/welkom",
+    "id": "welkom"
+  },
+  {
+    "title": "Westville Masjid, Durban, Kzn, RSA",
+    "url": "https://icecast.livemasjid.com/westville",
+    "id": "westville"
+  },
+  {
+    "title": "Witbank Jummuah Masjid, Mpumalanga, RSA",
+    "url": "https://icecast.livemasjid.com/witbanktown",
+    "id": "witbanktown"
+  }
+]
